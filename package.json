@@ -1,0 +1,32 @@
+{
+  "name": "material-generator",
+  "version": "1.0.0",
+  "description": "A generator for angular material apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moonblade/material-generator.git"
+  },
+  "keywords": [
+    "material",
+    "angular",
+    "generator"
+  ],
+  "author": "moonblade168@gmail.com",
+  "license": "ISC",
+  "bin": {
+    "mgenerator": "./index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/moonblade/material-generator/issues"
+  },
+  "homepage": "https://github.com/moonblade/material-generator#readme",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "create-file": "^1.0.1",
+    "mkdirp": "^0.5.1"
+  }
+}
