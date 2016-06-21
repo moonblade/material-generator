@@ -1,7 +1,7 @@
 # material-generator
 
 ##Usage
- `generator [options] <folderName>`
+ `mgenerator [options] <folderName>`
 
 ###Options
 ```
